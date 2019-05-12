@@ -1,7 +1,7 @@
 # Fake News Detection using Graph Attention Networks
 
 ## Description
-This project involved training a classifier that helps in distinguishing fake news from real news. Owing to the graph like nature of the relationship between the users and the news articles present in the social media, this classifier tries to capture these characteristics with the help of a graph attention network.
+This project involved training a classifier that helps in distinguishing fake news from real news. Owing to the graph like nature of the relationship between the users and the news articles present in social media, this classifier tries to capture these characteristics with the help of a graph attention network.
 
 ## Steps to execute
 1. Go to the folder named "codebase".
